@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  stackrox-central-services:
+  - apiVersion: v2
+    appVersion: 3.68.1
+    created: "2022-03-02T20:57:41.771350385-05:00"
+    description: Helm Chart for StackRox Central Clusters
+    digest: 7236755e8615be211e856e245fcf0febf197dc42c4bb45a4d624acf1a9a6fa17
+    icon: https://www.stackrox.com/img/logo.svg
+    name: stackrox-central-services
+    type: application
+    urls:
+    - stackrox-central-services-68.1.0.tgz
+    version: 68.1.0
+generated: "2022-03-02T20:57:41.757784292-05:00"
